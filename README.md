@@ -1,4 +1,4 @@
-# 🔐 Retail Security Risk Analysis
+# Retail Security Risk Analysis
 
 This project presents a real-world cybersecurity risk analysis conducted in a retail environment.
 
@@ -38,3 +38,14 @@ Critical vulnerabilities often arise from simple security misconfigurations rath
 ---
 
 ⚠️ This project is based on a real scenario. Sensitive information has been omitted for ethical reasons.
+## 📎 Project Structure
+
+- security-incident-report.md → Detailed vulnerability report
+- bow-tie-analysis.md → Risk visualization
+- swot-analysis.md → Strategic analysis
+- risk-assessment.md → Risk classification
+- mitigation-plan.md → Action plan
+
+## 🚀 About this Project
+
+This project simulates a real-world cybersecurity analysis performed in a retail environment, focusing on practical risk identification and mitigation.
